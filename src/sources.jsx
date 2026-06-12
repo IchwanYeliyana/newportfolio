@@ -273,57 +273,57 @@ export const projects = [
       },
     ],
   },
-  {
-    id: 5,
-    title: "Mobile bank - App Design",
-    image:
-      "https://i.pinimg.com/originals/a0/be/c3/a0bec3706210e6ab28470eee95bf5889.png",
-    category: "UI/UX",
-    description: `Experience banking at your fingertips with our sleek Mobile Bank app design. Seamlessly manage your finances on-the-go with intuitive navigation, secure transactions, and personalized insights. Enjoy a modern interface that prioritizes convenience and accessibility, revolutionizing your banking experience.`,
-    demoLink: "https://google.com/",
-    stack: [
-      {
-        name: "Figma",
-        icon: <CgFigma />,
-        iconColor: "orangered",
-      },
-    ],
-  },
-  {
-    id: 6,
-    title: "Quiz App Development",
-    image:
-      "https://i.pinimg.com/originals/b3/35/02/b33502e465346ace2a7f1df203d851a3.jpg",
-    category: "Apps",
-    description: `Elevate engagement and knowledge retention with our Quiz App 
-                    Development project. Seamlessly crafted for interactive learning 
-                    experiences, our app offers customizable quizzes, real-time feedback, 
-                    and captivating visuals. Empower users to test their knowledge anytime,
-                     anywhere, fostering a dynamic learning environment tailored to their 
-                     needs.`,
-    demoLink: "https://google.com/",
-    stack: [
-      {
-        name: "React Native",
-        icon: <TbBrandReactNative />,
-        iconColor: "skyblue",
-      },
-      {
-        name: "NodeJs",
-        icon: <FaNodeJs />,
-        iconColor: "green",
-      },
-      {
-        name: "ExpressJs",
-        icon: <SiExpress />,
-      },
-      {
-        name: "MongoDB",
-        icon: <SiMongodb />,
-        iconColor: "limegreen",
-      },
-    ],
-  },
+  // {
+  //   id: 5,
+  //   title: "Mobile bank - App Design",
+  //   image:
+  //     "https://i.pinimg.com/originals/a0/be/c3/a0bec3706210e6ab28470eee95bf5889.png",
+  //   category: "UI/UX",
+  //   description: `Experience banking at your fingertips with our sleek Mobile Bank app design. Seamlessly manage your finances on-the-go with intuitive navigation, secure transactions, and personalized insights. Enjoy a modern interface that prioritizes convenience and accessibility, revolutionizing your banking experience.`,
+  //   demoLink: "https://google.com/",
+  //   stack: [
+  //     {
+  //       name: "Figma",
+  //       icon: <CgFigma />,
+  //       iconColor: "orangered",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 6,
+  //   title: "Quiz App Development",
+  //   image:
+  //     "https://i.pinimg.com/originals/b3/35/02/b33502e465346ace2a7f1df203d851a3.jpg",
+  //   category: "Apps",
+  //   description: `Elevate engagement and knowledge retention with our Quiz App 
+  //                   Development project. Seamlessly crafted for interactive learning 
+  //                   experiences, our app offers customizable quizzes, real-time feedback, 
+  //                   and captivating visuals. Empower users to test their knowledge anytime,
+  //                    anywhere, fostering a dynamic learning environment tailored to their 
+  //                    needs.`,
+  //   demoLink: "https://google.com/",
+  //   stack: [
+  //     {
+  //       name: "React Native",
+  //       icon: <TbBrandReactNative />,
+  //       iconColor: "skyblue",
+  //     },
+  //     {
+  //       name: "NodeJs",
+  //       icon: <FaNodeJs />,
+  //       iconColor: "green",
+  //     },
+  //     {
+  //       name: "ExpressJs",
+  //       icon: <SiExpress />,
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //       icon: <SiMongodb />,
+  //       iconColor: "limegreen",
+  //     },
+  //   ],
+  // },
 ];
 
 export const clients = [
