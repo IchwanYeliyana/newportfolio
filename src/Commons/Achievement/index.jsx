@@ -9,7 +9,7 @@ const Achievement = () => {
     useEffect(() => {
         const timeOutId = setTimeout(() => {
             setExperience(1);
-            setProjects(4);
+            setProjects(11);
         }, 3000)
         return () => clearTimeout(timeOutId);
     }, [])
